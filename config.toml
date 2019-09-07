@@ -3,7 +3,7 @@ baseURL = "https://canstream.github.io/"
 languageCode = "en-us"
 title = "2019 Community Media Conference"
 theme = "forty"
-publishDir = "public"
+publishDir = "canstream.github.io"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
