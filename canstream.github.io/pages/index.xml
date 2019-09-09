@@ -2,48 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 2019 Community Media Conference</title>
-    <link>https://canstream.github.io/pages/</link>
+    <link>https://2019-conference.commedia.org.uk/pages/</link>
     <description>Recent content in Pages on 2019 Community Media Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2019 00:19:13 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 23:56:25 +0100</lastBuildDate>
     
-	<atom:link href="https://canstream.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2019-conference.commedia.org.uk/pages/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Citizen Journalism Workshop</title>
-      <link>https://canstream.github.io/pages/citizen/</link>
-      <pubDate>Wed, 28 Aug 2019 00:19:13 +0100</pubDate>
-      
-      <guid>https://canstream.github.io/pages/citizen/</guid>
-      <description>On Sunday 29th September at Salford Quays, the Community Media Association is delighted to partner with BBC MediaCityUK to programme this citizen journalism workshop event for the community media sector which is free to attend with refreshments and lunch provided.
-10:00 - Arrival, registration, tea and coffee, networking
-11:00 - Welcome &amp;amp; Introduction
-11:15 - Workshop with Amanda Eleftheriades-Sherry of ClydesiderMag. Using creative community events as a catalyst for conversation.</description>
-    </item>
-    
-    <item>
-      <title>Agenda</title>
-      <link>https://canstream.github.io/pages/agenda/</link>
-      <pubDate>Wed, 28 Aug 2019 00:18:32 +0100</pubDate>
-      
-      <guid>https://canstream.github.io/pages/agenda/</guid>
-      <description>The 2019 Community Media Conference will address a number of key themes:
- Production: radio production masterclass with Hindenburg Systems, radio presenting skills masterclass with Scruton Wyatt Media
- Small-scale digital audio broadcasting: tech, licensing, funding
- Sustainability: Community Radio Fund, Audio Content Fund
- Dialogue: inRadio discussions with leading industry figures and Decentered Media podcast recordings
-  The outline Conference agenda is below (subject to change):
-09:00 Registration and networking</description>
-    </item>
     
     <item>
       <title>Location</title>
-      <link>https://canstream.github.io/pages/location/</link>
+      <link>https://2019-conference.commedia.org.uk/pages/location/</link>
       <pubDate>Tue, 27 Aug 2019 23:56:25 +0100</pubDate>
       
-      <guid>https://canstream.github.io/pages/location/</guid>
+      <guid>https://2019-conference.commedia.org.uk/pages/location/</guid>
       <description>Address: Quay House, BBC MediaCityUK, Salford, M50 2BH Salford Quays is less than four miles from Manchester city centre, 12 miles from Manchester airport and a short distance from the M60. The SatNav postcode is M50 2EQ. Bus, train and Metrolink information at www.tgfm.com. Please arrive promptly from 9am on the day in order to quickly clear security. Please bring photo identiifcation to speed your entry.
 Parking Parking is available at The Lowry Outlet Mall.</description>
     </item>

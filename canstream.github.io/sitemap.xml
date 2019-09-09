@@ -3,36 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://canstream.github.io/</loc>
-    <lastmod>2019-08-28T00:19:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canstream.github.io/pages/citizen/</loc>
-    <lastmod>2019-08-28T00:19:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canstream.github.io/pages/</loc>
-    <lastmod>2019-08-28T00:19:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canstream.github.io/pages/agenda/</loc>
-    <lastmod>2019-08-28T00:18:32+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://canstream.github.io/pages/location/</loc>
+    <loc>https://2019-conference.commedia.org.uk/</loc>
     <lastmod>2019-08-27T23:56:25+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://canstream.github.io/categories/</loc>
+    <loc>https://2019-conference.commedia.org.uk/pages/location/</loc>
+    <lastmod>2019-08-27T23:56:25+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://canstream.github.io/tags/</loc>
+    <loc>https://2019-conference.commedia.org.uk/pages/</loc>
+    <lastmod>2019-08-27T23:56:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2019-conference.commedia.org.uk/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://2019-conference.commedia.org.uk/tags/</loc>
   </url>
   
 </urlset>
