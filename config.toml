@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://canstream.github.io/"
+baseURL = "https://2019-conference.commedia.org.uk/"
 languageCode = "en-us"
 title = "2019 Community Media Conference"
 theme = "forty"
