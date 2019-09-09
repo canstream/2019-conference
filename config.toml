@@ -117,10 +117,10 @@ disqusShortname = ""
       url = "pages/sponsors"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Hindenburg Systems Promotion"
+      subtitle = "Promotion offer for Conference Delegates"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "pages/hindenburg"
 
     [[params.tiles.showcase]]
       title = "Citizen journalism workshop"
